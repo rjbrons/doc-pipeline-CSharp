@@ -1,4 +1,4 @@
-# Doc Pipeline for C#
+# Code Pipeline for C#
 ## C# Application folder
 1. Add buildspec.yml file.
 ```
@@ -60,7 +60,7 @@ Any changes on github source, is reflected on the deployed site.
 
 ## Group:
 * Vinh Nguyen
-* Stephe Chu
+* Stephen Chu
 * Cristian Restrepo
 * Jorie Fernandez
 
