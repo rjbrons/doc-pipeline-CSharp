@@ -45,6 +45,8 @@ To see more details, check out: https://github.com/nguyenvinh2/deployment-app-cs
 6. Under Deploy provider, select Elastic Beanstalk (Ensure EB is already set-up). Select corresponding application and environment names. Click next.
 7. Click Create Pipeline. Wait for confirmation.
 
+![alt pipeline](./pipeline.png)
+
 ## Roadblocks
 1. Buildspec yml file should exist on the application.
 
