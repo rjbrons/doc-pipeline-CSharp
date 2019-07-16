@@ -56,10 +56,11 @@ http://dotnetrun-env.ctrwv48puz.us-west-2.elasticbeanstalk.com/
 
 ## Repeatability
 Any changes on github source, is reflected on the deployed site.
+![alt web](./web.png)
 
 ## Group:
-Vinh Nguyen
-Stephe Chu
-Cristian Restrepo
-Jorie Fernandez
+* Vinh Nguyen
+* Stephe Chu
+* Cristian Restrepo
+* Jorie Fernandez
 
