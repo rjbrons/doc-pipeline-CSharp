@@ -1,5 +1,5 @@
 # Code Pipeline for C#
-## C# Application folder
+## Files for the C# Application folder
 1. Add buildspec.yml file.
 ```
 version: 0.2
