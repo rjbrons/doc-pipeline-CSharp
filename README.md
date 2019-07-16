@@ -48,7 +48,14 @@ To see more details, check out: https://github.com/nguyenvinh2/deployment-app-cs
 ![alt pipeline](./pipeline.png)
 
 ## Roadblocks
-1. Buildspec yml file should exist on the application.
+1. Buildspec yml and mainfest files should be added on the application folder.
+2. Figuring out vague error messages.
+
+## Deployed site
+http://dotnetrun-env.ctrwv48puz.us-west-2.elasticbeanstalk.com/
+
+## Repeatability
+Any changes on github source, is reflected on the deployed site.
 
 
 
