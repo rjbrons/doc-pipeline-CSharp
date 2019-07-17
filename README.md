@@ -49,7 +49,7 @@ b.	Region – default<br>
 c.	Application name – Elastic beanstalk application name<br>
 d.	Environment name – Elastic beanstalk environment name<br>
 e.	After reviewing Click create pipeline<br>
-![image](https://imgur.com/bP5rmAA)
+![image](https://i.imgur.com/bP5rmAA.png)
 ## Potential roadblocks or trouble spots
 During Build
 YAML_FILE_ERROR Message: This build image requires selecting at least one runtime version.  
