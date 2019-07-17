@@ -49,7 +49,7 @@ b.	Region – default<br>
 c.	Application name – Elastic beanstalk application name<br>
 d.	Environment name – Elastic beanstalk environment name<br>
 e.	After reviewing Click create pipeline<br>
-
+![image](https://imgur.com/bP5rmAA)
 ## Potential roadblocks or trouble spots
 During Build
 YAML_FILE_ERROR Message: This build image requires selecting at least one runtime version.  
@@ -59,6 +59,7 @@ During Deploy
 The action failed because either the artifact or the Amazon S3 bucket could not be found. Name of artifact bucket: codepipeline-us-west-2-662875121028. Verify that this bucket exists. If it exists, check the life cycle policy, then try releasing a change.
 
 ## Link to Deployed website
+http://deploymentappcsharp-env.jntp3qvhar.us-west-2.elasticbeanstalk.com/
 
 
 ## Link to GitHub
