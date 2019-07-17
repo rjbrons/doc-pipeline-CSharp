@@ -53,6 +53,7 @@ e.	After reviewing Click create pipeline<br>
 ## Potential roadblocks or trouble spots
 During Build
 YAML_FILE_ERROR Message: This build image requires selecting at least one runtime version.
+If you build on a newer version of the dotnet sdk that 2.1 you are going to have a bad time.  You need to revert all of the compatability and tests to a 2.1 or lower
 
 During Deploy
 The action failed because either the artifact or the Amazon S3 bucket could not be found. Name of artifact bucket: codepipeline-us-west-2-662875121028. Verify that this bucket exists. If it exists, check the life cycle policy, then try releasing a change.
